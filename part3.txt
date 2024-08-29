@@ -1,3 +1,5 @@
 1. What word was changed in 'text/time-machine.txt'
+-said Filby, an argumentative person with red hair.
 
 2. What did the script do to the file 'text/last-question.txt'
+replace ? with question
